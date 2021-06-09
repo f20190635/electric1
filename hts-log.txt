@@ -1,0 +1,126 @@
+HTTrack3.49-2 launched on Wed, 09 Jun 2021 11:49:35 at https://electricsuper.com.au/
+(httrack https://electricsuper.com.au/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:50:53	Error: 	"Method Not Allowed" (405) at link https://electricsuper.com.au/wp/xmlrpc.php (from https://electricsuper.com.au/)
+11:51:03	Error: 	"Bad Request" (400) at link https://electricsuper.com.au/wp/wp-admin/admin-ajax.php (from https://electricsuper.com.au/)
+12:27:20	Warning: 	Moved Permanently for https://electricsuper.com.au/members/my-journey-become-a-member/
+12:27:20	Warning: 	File has moved from https://electricsuper.com.au/members/my-journey-become-a-member/ to https://electricsuper.com.au/super/my-journey-become-a-member/
+12:27:23	Error: 	"Not Found" (404) at link https://electricsuper.com.au/Array (from https://electricsuper.com.au/)
+12:27:23	Error: 	"Not Found" (404) at link https://electricsuper.com.au/meet-with-us/Array (from https://electricsuper.com.au/meet-with-us/)
+12:27:26	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/Array (from https://electricsuper.com.au/super/)
+12:27:26	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/my-journey-become-a-member/Array (from https://electricsuper.com.au/super/my-journey-become-a-member/)
+12:27:26	Warning: 	Moved Permanently for https://electricsuper.com.au/members/spouse/
+12:27:26	Warning: 	File has moved from https://electricsuper.com.au/members/spouse/ to https://electricsuper.com.au/super/spouse/
+12:27:26	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/services/Array (from https://electricsuper.com.au/super/services/)
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/life-changes/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/life-changes/ to https://electricsuper.com.au/super/life-changes/
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/my-super/how-much-will-i-need/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/my-super/how-much-will-i-need/ to https://electricsuper.com.au/retirement/how-much-will-i-need/
+12:27:27	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/contributions/Array (from https://electricsuper.com.au/super/contributions/)
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/contributions/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/contributions/ to https://electricsuper.com.au/super/contributions/
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/beneficiaries/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/beneficiaries/ to https://electricsuper.com.au/super/beneficiaries/
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/life-changes/marriage-family/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/life-changes/marriage-family/ to https://electricsuper.com.au/super/life-changes/marriage-family/
+12:27:27	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/spouse/Array (from https://electricsuper.com.au/super/spouse/)
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/insurance/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/insurance/ to https://electricsuper.com.au/super/insurance/
+12:27:27	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/consolidate/Array (from https://electricsuper.com.au/super/consolidate/)
+12:27:27	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/beneficiaries/Array (from https://electricsuper.com.au/super/beneficiaries/)
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/insurance/death-tpd/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/insurance/death-tpd/ to https://electricsuper.com.au/super/insurance/death-tpd/
+12:27:27	Warning: 	Moved Permanently for https://electricsuper.com.au/members/insurance/income-protection/
+12:27:27	Warning: 	File has moved from https://electricsuper.com.au/members/insurance/income-protection/ to https://electricsuper.com.au/super/insurance/income-protection/
+12:27:27	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/insurance/Array (from https://electricsuper.com.au/super/insurance/)
+12:27:31	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/insurance/death-tpd/Array (from https://electricsuper.com.au/super/insurance/death-tpd/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/insurance/income-protection/Array (from https://electricsuper.com.au/super/insurance/income-protection/)
+12:27:34	Warning: 	Moved Permanently for https://electricsuper.com.au/members/life-changes/changing-jobs/
+12:27:34	Warning: 	File has moved from https://electricsuper.com.au/members/life-changes/changing-jobs/ to https://electricsuper.com.au/super/life-changes/changing-jobs/
+12:27:34	Warning: 	Moved Permanently for https://electricsuper.com.au/members/life-changes/buying-a-home/
+12:27:34	Warning: 	File has moved from https://electricsuper.com.au/members/life-changes/buying-a-home/ to https://electricsuper.com.au/super/life-changes/buying-a-home/
+12:27:34	Warning: 	Moved Permanently for https://electricsuper.com.au/members/my-life-changes/separation-divorce/
+12:27:34	Warning: 	File has moved from https://electricsuper.com.au/members/my-life-changes/separation-divorce/ to https://electricsuper.com.au/super/life-changes/separation-divorce/
+12:27:34	Warning: 	Moved Permanently for https://electricsuper.com.au/members/my-life-changes/financial-hardship/
+12:27:34	Warning: 	File has moved from https://electricsuper.com.au/members/my-life-changes/financial-hardship/ to https://electricsuper.com.au/super/life-changes/financial-hardship/
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/life-changes/Array (from https://electricsuper.com.au/super/life-changes/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/life-changes/changing-jobs/Array (from https://electricsuper.com.au/super/life-changes/changing-jobs/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/life-changes/buying-a-home/Array (from https://electricsuper.com.au/super/life-changes/buying-a-home/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/life-changes/marriage-family/Array (from https://electricsuper.com.au/super/life-changes/marriage-family/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/life-changes/separation-divorce/Array (from https://electricsuper.com.au/super/life-changes/separation-divorce/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/super/life-changes/financial-hardship/Array (from https://electricsuper.com.au/super/life-changes/financial-hardship/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/Array (from https://electricsuper.com.au/retirement/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/how-much-will-i-need/Array (from https://electricsuper.com.au/retirement/how-much-will-i-need/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/income/Array (from https://electricsuper.com.au/retirement/income/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/income/retirement-income-stream/Array (from https://electricsuper.com.au/retirement/income/retirement-income-stream/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/income/transition-to-retirement/Array (from https://electricsuper.com.au/retirement/income/transition-to-retirement/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/advice/Array (from https://electricsuper.com.au/retirement/advice/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/social-services/Array (from https://electricsuper.com.au/retirement/social-services/)
+12:27:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://electricsuper.com.au/app/uploads/2019/03/DeathtoStock_EnergyandSerenity4-1920x0-c-default.jpg (from https://electricsuper.com.au/retirement/lifestyle/)
+12:27:34	Warning: 	Retry after error -2 (Receive Time Out) at link https://electricsuper.com.au/app/uploads/2019/03/DeathtoStock_Lost2-1920x0-c-default.jpg (from https://electricsuper.com.au/retirement/lifestyle/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/retirement/lifestyle/Array (from https://electricsuper.com.au/retirement/lifestyle/)
+12:27:34	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/Array (from https://electricsuper.com.au/investments/)
+12:27:36	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/options/lava/Lava.js (from https://electricsuper.com.au/investments/options/)
+12:27:36	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/options/Errors.js (from https://electricsuper.com.au/investments/options/)
+12:27:36	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/options/Chart.js (from https://electricsuper.com.au/investments/options/)
+12:27:36	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/options/Dashboard.js (from https://electricsuper.com.au/investments/options/)
+12:27:36	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/options/Array (from https://electricsuper.com.au/investments/options/)
+12:27:36	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/performance/Array (from https://electricsuper.com.au/investments/performance/)
+12:27:37	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/your-investment-style/Array (from https://electricsuper.com.au/investments/your-investment-style/)
+12:27:37	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/Array (from https://electricsuper.com.au/resources/)
+12:27:37	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/planning-tools/Array (from https://electricsuper.com.au/resources/planning-tools/)
+12:27:49	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/forms-publications/Array (from https://electricsuper.com.au/resources/forms-publications/)
+12:27:49	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/faqs/Array (from https://electricsuper.com.au/resources/faqs/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/electricsuper-library/Array (from https://electricsuper.com.au/resources/electricsuper-library/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/about-us/Array (from https://electricsuper.com.au/about-us/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/about-us/fees/Array (from https://electricsuper.com.au/about-us/fees/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/about-us/governance/Array (from https://electricsuper.com.au/about-us/governance/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/about-us/accumulation-scheme/Array (from https://electricsuper.com.au/about-us/accumulation-scheme/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/contact/Array (from https://electricsuper.com.au/contact/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/my-journey-working/Array (from https://electricsuper.com.au/my-journey-working/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/my-journey-preparing-to-retire/Array (from https://electricsuper.com.au/my-journey-preparing-to-retire/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/my-journey-retired/Array (from https://electricsuper.com.au/my-journey-retired/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/completing-proof-of-identity/Array (from https://electricsuper.com.au/resources/completing-proof-of-identity/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/vary-regular-contributions/Array (from https://electricsuper.com.au/resources/vary-regular-contributions/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/accumulation-scheme-retained-insurance-benefits/Array (from https://electricsuper.com.au/resources/accumulation-scheme-retained-insurance-benefits/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/accumulation-scheme-spouse-insurance-benefits/Array (from https://electricsuper.com.au/resources/accumulation-scheme-spouse-insurance-benefits/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/accumulation-scheme-division-5-insurance-benefits/Array (from https://electricsuper.com.au/resources/accumulation-scheme-division-5-insurance-benefits/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/investment-choice/Array (from https://electricsuper.com.au/resources/investment-choice/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/investments/investment-targets/Array (from https://electricsuper.com.au/investments/investment-targets/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/welcome/Array (from https://electricsuper.com.au/resources/welcome/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/splitting-super-contributions/Array (from https://electricsuper.com.au/resources/splitting-super-contributions/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/limits-on-super-contributions/Array (from https://electricsuper.com.au/resources/limits-on-super-contributions/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/tax-on-benefits-and-the-contribution-tax-offset/Array (from https://electricsuper.com.au/resources/tax-on-benefits-and-the-contribution-tax-offset/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/electric-super-investment-beliefs/Array (from https://electricsuper.com.au/resources/electric-super-investment-beliefs/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/yourfundforlife/Array (from https://electricsuper.com.au/resources/yourfundforlife/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/effect-of-part-time-work-on-superannuation-benefits/Array (from https://electricsuper.com.au/resources/effect-of-part-time-work-on-superannuation-benefits/)
+12:29:11	Error: 	"Not Found" (404) at link https://electricsuper.com.au/resources/lifetime-pension-payments/Array (from https://electricsuper.com.au/resources/lifetime-pension-payments/)
+12:29:13	Warning: 	Moved Permanently for https://electricsuper.com.au/resources/news/
+12:29:13	Warning: 	File has moved from https://electricsuper.com.au/resources/news/ to https://electricsuper.com.au/resources/electricsuper-library/
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/12/federal-budget-update-2021/Array (from https://electricsuper.com.au/2021/05/12/federal-budget-update-2021/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/19/changes-to-contribution-caps-2021-22/Array (from https://electricsuper.com.au/2021/03/19/changes-to-contribution-caps-2021-22/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/19/update-to-the-transfer-balance-cap/Array (from https://electricsuper.com.au/2021/03/19/update-to-the-transfer-balance-cap/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2020/04/15/covid-19-early-release/Array (from https://electricsuper.com.au/2020/04/15/covid-19-early-release/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/13/work-breaks/Array (from https://electricsuper.com.au/2021/05/13/work-breaks/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/03/starting-a-family/Array (from https://electricsuper.com.au/2021/05/03/starting-a-family/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/19/stay-with-us-even-with-a-new-job/Array (from https://electricsuper.com.au/2021/03/19/stay-with-us-even-with-a-new-job/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/19/changing-jobs-no-need-to-change-your-super/Array (from https://electricsuper.com.au/2021/03/19/changing-jobs-no-need-to-change-your-super/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/13/do-you-have-enough-insurance/Array (from https://electricsuper.com.au/2021/05/13/do-you-have-enough-insurance/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/03/am-i-on-track/Array (from https://electricsuper.com.au/2021/05/03/am-i-on-track/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/19/spouse-accounts/Array (from https://electricsuper.com.au/2021/03/19/spouse-accounts/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/13/retirement-is-about-more-than-money/Array (from https://electricsuper.com.au/2021/05/13/retirement-is-about-more-than-money/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/05/13/when-retiring-early-is-the-norm/Array (from https://electricsuper.com.au/2021/05/13/when-retiring-early-is-the-norm/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/30/what-is-an-income-stream-or-allocated-pension/Array (from https://electricsuper.com.au/2021/03/30/what-is-an-income-stream-or-allocated-pension/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/19/your-investment-choice/Array (from https://electricsuper.com.au/2021/03/19/your-investment-choice/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2020/04/09/covid-19-staying-the-course/Array (from https://electricsuper.com.au/2020/04/09/covid-19-staying-the-course/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2020/03/16/coronavirus-update/Array (from https://electricsuper.com.au/2020/03/16/coronavirus-update/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2019/08/08/press-release-lanyon-asset-management-picks-up-investment-mandate-from-the-electricity-industry-superannuation-scheme/Array (from https://electricsuper.com.au/2019/08/08/press-release-lanyon-asset-management-picks-up-investment-mandate-from-the-electricity-industry-superannuation-scheme/)
+12:29:13	Error: 	"Not Found" (404) at link https://electricsuper.com.au/2021/03/18/reunite-your-super/Array (from https://electricsuper.com.au/2021/03/18/reunite-your-super/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 minutes 38 seconds : 492 links scanned, 391 files written (103226171 bytes overall) [101460892 bytes received at 42666 bytes/sec], 6806138 bytes transferred using HTTP compression in 125 files, ratio 19%, 2.5 requests per connection
+(83 errors, 32 warnings, 0 messages)
